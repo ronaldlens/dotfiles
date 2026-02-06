@@ -73,6 +73,8 @@ alias ls="eza --icons=always"
 alias v="nvim"
 alias vim="nvim"
 alias tf="terraform"
+alias lg="lazygit"
+alias cm="chezmoi"
 
 # Add any commands which depend on conda here
 lazy_conda_aliases=('python' 'conda')
