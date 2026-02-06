@@ -75,6 +75,8 @@ alias vim="nvim"
 alias tf="terraform"
 alias lg="lazygit"
 alias cm="chezmoi"
+alias sb="cd ~/doc"
+
 
 # Add any commands which depend on conda here
 lazy_conda_aliases=('python' 'conda')
