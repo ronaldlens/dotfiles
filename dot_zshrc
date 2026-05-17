@@ -84,6 +84,9 @@ alias kctx="kubectx"
 alias sr="source ~/.zshrc"
 alias er="nvim ~/.zshrc"
 alias kgp="kubectl get pods"
+alias er="nvim ~/.local/share/chezmoi/dot_zshrc"
+alias sr="source ~/.zshrc" 
+alias cma="chezmoi apply"
 
 # Add any commands which depend on conda here
 lazy_conda_aliases=('python' 'conda')
